@@ -1,6 +1,6 @@
-# budget_tracker
+# Budget Tracker App
 
-A new Flutter project.
+An budget tracking made using Google Cloud Platform + Google Sheets API as the backend for the App.
 
 ## Getting Started
 
